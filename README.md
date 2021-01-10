@@ -24,4 +24,9 @@ This app uses 20 electrocardiogram signaling samples randomly downloaded from th
 
 See 'results' folder for more images.
 
+# Frameworks used
+
+This code has been partially addapted from Matlab to R using the functions below:
+* [Pan Tomkin](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/45840/versions/11/previews/pan_tompkin.m/index.html)
+* [Modified form of Pan Tomkin](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/50953/versions/2/previews/pt.m/index.html)
 
