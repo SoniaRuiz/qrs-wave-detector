@@ -14,3 +14,14 @@ This app uses 20 electrocardiogram signaling samples randomly downloaded from th
 
 ## Results
 
+### Person1
+
+![Person1](https://github.com/SoniaRuiz/qrs-wave-detector/blob/main/results/person1.PNG "Person1")
+
+### Person2
+
+![Person1](https://github.com/SoniaRuiz/qrs-wave-detector/blob/main/results/person2.PNG "Person2")
+
+See 'results' folder for more images.
+
+
